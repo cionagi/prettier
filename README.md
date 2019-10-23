@@ -2,15 +2,17 @@
 configuracion/intalacion de prettier
 
 
-##configura prettier con el IDE 
+## Configura prettier con el IDE 
+```bash
 npm i prettier eslint-plugin-prettier -D 
+```
 
-
-##Agrega prettier
+## Agrega prettier
+```bash
 npm install --save-dev --save-exact prettier
+```
 
+Crear archivo **.eslintrc**
 
-Crear archivo `.eslintrc`
-
-##EsLint
+## EsLint
 si tienes EsLint instalado, en su archivo agregar `"extends": ["airbnb", "prettier"],`
