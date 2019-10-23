@@ -1,5 +1,5 @@
-# prettier
-configuracion/intalacion de prettier
+# Prettier
+configuracion/intalacion de [Prettier](https://prettier.io/docs/en/install.html)
 
 
 ## Configura prettier con el IDE 
@@ -7,7 +7,7 @@ configuracion/intalacion de prettier
 npm i prettier eslint-plugin-prettier -D 
 ```
 
-## Agrega prettier
+## Agrega Prettier
 ```bash
 npm install --save-dev --save-exact prettier
 ```
