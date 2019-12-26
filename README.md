@@ -4,7 +4,7 @@ configuracion/intalacion de [Prettier](https://prettier.io/docs/en/install.html)
 
 ## Configura prettier con el IDE 
 ```bash
-npm i prettier eslint-plugin-prettier -D 
+npm i prettier eslint-plugin-prettier eslint-config-prettier -D 
 ```
 
 ## Agrega Prettier
@@ -16,3 +16,4 @@ Crear archivo **.eslintrc**
 
 ## EsLint
 si tienes EsLint instalado, en su archivo agregar `"extends": ["airbnb", "prettier"],`
+
